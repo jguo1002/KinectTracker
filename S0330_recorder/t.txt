@@ -1,1 +1,0 @@
-recorder the position of left hand by 'SPACE'. 
