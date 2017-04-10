@@ -58,8 +58,8 @@ void draw()
   background(255);  
   
   // recordAction();
-  // showLoadedAction();
   
+  // comment below if want to record and uncomment last line
   if(context.isTrackingSkeleton(1) && isEcho)
   {
     SkeletonData data = drawSkeleton(1);
